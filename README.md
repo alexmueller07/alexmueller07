@@ -2,8 +2,8 @@
 
 My name is Alex, and I am a current Computer Science undergraduate student in my sophomore year at the University of Wisconsin-Madison. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on ... Machine Learning Sports Prediction Bot
+- 🌱 I’m currently learning ... Quantitative Finance Topics
 - 👯 I’m looking to collaborate on ...
   
 <!--
