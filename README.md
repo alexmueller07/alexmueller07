@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-My name is Alex, and I am a current Computer Science undergraduate student in my sophomore year at the University of Wisconsin-Madison. 
+My name is Alex, and I am a current Computer Science undergraduate student in my junior year at the University of Wisconsin-Madison. 
 
-- 🔭 I’m currently working on ... Machine Learning Sports Prediction Bot
-- 🌱 I’m currently learning ... Quantitative Finance Topics
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on a poker bot which not only plays GTO but adapts its play to the behavior of the other players at the table. 
+- 🌱 I’m currently learning rust and oCaml
+- 👯 I’m looking to collaborate on machine learning projects
   
 <!--
 **alexmueller07/alexmueller07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
