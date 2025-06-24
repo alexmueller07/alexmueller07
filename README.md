@@ -2,8 +2,8 @@
 
 My name is Alex, and I am a current Computer Science undergraduate student in my junior year at the University of Wisconsin-Madison. 
 
-- 🔭 I’m currently working on a poker bot which not only plays GTO but adapts its play to the behavior of the other players at the table. 
-- 🌱 I’m currently learning rust and oCaml
+- 🔭 I’m currently working on a poker bot which adapts its play using machine learning to the behavior of the other players at the table. 
+- 🌱 I’m currently learning about deep learning and neural networks
 - 👯 I’m looking to collaborate on machine learning projects
   
 <!--
