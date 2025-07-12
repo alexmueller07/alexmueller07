@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Alexander, and I am a current Computer Science undergraduate student at the University of Minnesota Twin-Cities. 
+My name is Alexander, and I am a current Computer Science undergraduate student at the University of Wisconsin at Madison. 
 
 - 🔭 I’m currently working on a poker bot which adapts its play using machine learning to the behavior of the other players at the table. 
 - 🌱 I’m currently learning about deep learning and neural networks
