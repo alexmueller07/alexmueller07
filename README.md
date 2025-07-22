@@ -26,6 +26,8 @@ Hi there👋, my name is Alexander, and I am a current Computer Science undergra
 
 <br /> 
 
+#
+
 - 🔭 I’m currently working on a Sports Betting Arbitrage and Positive EV Bot, and a Personal Secretary App
 - 🌱 I’m currently learning about deep learning and neural networks
 - 👯 I’m looking to collaborate on any machine learning projects
