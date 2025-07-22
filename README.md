@@ -2,6 +2,8 @@
 
 Hi there👋, my name is Alexander, and I am a current Computer Science undergraduate student at the University of Wisconsin at Madison. I am best at backend development, although for many of my projects on here I added a frontend for ease of use. All my coding projects are built from the ground up, from planning and designing all the way to implimenting and solving real life problems with code. Almost all the projects I complete are build to solve a problem as that is what I do best. Weather its a problem I face, my friends face, or I see a group of people facing it on social media, that is where I get my inspiration for projects from. If you have any problem you would like to see a solution for please send me a email at amueller.code@gmail.com.
 
+---
+
 - 🔭 I’m currently working on a Sports Betting Arbitrage and Positive EV Bot, and a Personal Secretary App
 - 🌱 I’m currently learning about deep learning and neural networks
 - 👯 I’m looking to collaborate on any machine learning projects
