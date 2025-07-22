@@ -50,5 +50,10 @@ Option Pricing Calculator - A web application for calculating option prices usin
 - 🌱 I’m currently learning about deep learning and neural networks
 - 👯 I’m looking to collaborate on any machine learning projects
 
+#
 
+<details> 
+  <summary><h3>Alexander's Coding Journey</h3></summary>
+    I started coding when I was young aoishdfoiahs douha odhasuid biaubs diubasi dbibasd as
+</details>
 
