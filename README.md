@@ -4,6 +4,7 @@ Hi there👋, my name is Alexander, and I am a current Computer Science undergra
 
 ---
 ### Languages and Tools 
+<img align="left" alt="python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain"/>
 <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
 - 🔭 I’m currently working on a Sports Betting Arbitrage and Positive EV Bot, and a Personal Secretary App
