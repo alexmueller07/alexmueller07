@@ -5,7 +5,9 @@ My name is Alexander, and I am a current Computer Science undergraduate student 
 - 🔭 I’m currently working on a poker bot which adapts its play using machine learning to the behavior of the other players at the table. 
 - 🌱 I’m currently learning about deep learning and neural networks
 - 👯 I’m looking to collaborate on machine learning projects
-  
+
+
+Completed Major Projects/Applications List: 
 <!--
 **alexmueller07/alexmueller07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
