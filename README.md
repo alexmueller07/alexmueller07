@@ -54,6 +54,6 @@ Option Pricing Calculator - A web application for calculating option prices usin
 
 <details> 
   <summary><h3>Alexander's Coding Journey</h3></summary>
-    I started coding when I was young aoishdfoiahs douha odhasuid biaubs diubasi dbibasd as
+    I have always had a passion for coding and writing software. Growing up in Silicon Valley gave me exposure to code at a young age and I fell in love with it. The first year I really started coding seriously was my freshman year of highschool. From there each year I learned more and more. Since the start of my coding journey I have completed hundreds of programs, and have even fully released a bunch of apps.  
 </details>
 
