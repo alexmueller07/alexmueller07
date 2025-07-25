@@ -1,58 +1,108 @@
-## Alexander Mueller
+<h1 align="center">👋 Hi, I'm Alexander Mueller</h1>
 
-Hi there👋, my name is Alexander, and I am a current Computer Science undergraduate student at the University of Wisconsin at Madison. I am best at backend development, although for many of my projects on here I added a frontend for ease of use. All my coding projects are built from the ground up, from planning and designing all the way to implimenting and solving real life problems with code. Almost all the projects I complete are build to solve a problem as that is what I do best. Weather its a problem I face, my friends face, or I see a group of people facing it on social media, that is where I get my inspiration for projects from. If you have any problem you would like to see a solution for please send me a email at amueller.code@gmail.com.
+<p align="center">
+  🎓 Computer Science undergraduate at the University of Wisconsin–Madison<br>
+  💡 Problem-solver | Backend-focused Developer | Machine Learning Enthusiast
+</p>
 
 ---
-### Languages
-<img align="left" alt="python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="typescript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="html5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="css3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="c" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<br />
 
+### 🚀 About Me
 
-### Tools 
-<img align="left" alt="git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="visualstudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" />
-<img align="left" alt="chrome" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
-<img align="left" alt="react/reactnative" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+I'm a passionate developer who loves solving real-world problems through code. Whether it's a personal challenge, something my friends face, or a trend I notice online, I turn problems into working software. Most of my projects are built from scratch — from concept and planning to full deployment — with an emphasis on backend logic, performance, and practical value.
 
-<br /> 
+If you’ve got a problem you’d like solved with code, I’d love to hear about it. Reach out anytime at **amueller.code@gmail.com**.
 
-#
+---
 
-Completed Major Projects/Applications List: 
+### 🧠 Current Focus
 
-Devsync IDE - A collaborative live-updating coding IDE which you can seamlessly work on code with your friends | https://devsync-snowy.vercel.app/
+- 🔭 Building a **Sports Betting Arbitrage & Positive EV Bot** that exploits market inefficiencies using math and live odds tracking
+- 📱 Developing a **Personal Secretary App** that screens calls, detects spam, and gathers caller information intelligently
+- 🌱 Learning more about **deep learning**, **transformers**, and **quantitative finance**
+- 👯 Open to collaborating on:  
+  - Machine learning & AI projects  
+  - Fintech tools & trading strategies  
+  - Research and applied software in quantitative finance
 
-Weather Stylist - A automated email you recieve every day at 5am with that days temperature as well as clothing recommendations | https://weatherstylist.com
+---
 
-NFL Betting Prediction - Sports Betting Bot for NFL. Runs two machine learning models, one regression, and one classifciation. Collects odds for upcoming games and uses mathematics paired with the predictions to return profitable bets | https://github.com/alexmueller07/nfl-betting-prediction
+### 🛠️ Languages & Technologies
 
-Socora - An AI assistant, runs in the background and can be activated by using a command where it can take in audio or text instructions. It also can see your screen to help you get the best result | https://v0-new-project-dwifajxft6o.vercel.app/
+#### 💻 Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="30" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="30" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="30" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="30" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" alt="C" />
+</p>
 
-Trading Bot - A quantitative pairs trading strategy using mean reversion, implimented using Alpaca API for live trading capabilities | https://github.com/alexmueller07/Mean-Reversion-Strategy
+#### 🔧 Tools & Frameworks
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="30" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="30" alt="VS" />
+</p>
 
-Option Pricing Calculator - A web application for calculating option prices using both Black-Scholes and Monte Carlo simulation methods. Additionally, allows users to see how shocking different variables impact option price and seeing how profit and loss can change depending on option price | https://option-pricing-calculator.onrender.com/
+---
 
-<br /> 
+### 📦 Featured Projects
 
-#
+Here are some of the bigger tools and applications I’ve built — most are live or production-ready:
 
-- 🔭 I’m currently working on a Sports Betting Arbitrage and Positive EV Bot, and a Personal Secretary App
-- 🌱 I’m currently learning about deep learning and neural networks
-- 👯 I’m looking to collaborate on any machine learning projects
+- **[Devsync IDE](https://devsync-snowy.vercel.app/)**  
+  A live collaborative coding IDE for real-time pair programming.
 
-#
+- **[Weather Stylist](https://weatherstylist.com)**  
+  Daily 5AM emails with the day's weather & personalized clothing suggestions.
 
-<details> 
-  <summary><h3>Alexander's Coding Journey</h3></summary>
-    I have always had a passion for coding and writing software. Growing up in Silicon Valley gave me exposure to code at a young age and I fell in love with it. The first year I really started coding seriously was my freshman year of highschool. From there each year I learned more and more. Since the start of my coding journey I have completed hundreds of programs, and have even fully released a bunch of apps.  
+- **[NFL Betting Prediction](https://github.com/alexmueller07/nfl-betting-prediction)**  
+  ML-based sports betting tool combining regression & classification to find profitable bets.
+
+- **[Socora](https://v0-new-project-dwifajxft6o.vercel.app/)**  
+  AI assistant with audio/text command support and screen awareness.
+
+- **[Trading Bot](https://github.com/alexmueller07/Mean-Reversion-Strategy)**  
+  A quantitative mean-reversion strategy bot using the Alpaca API for live trading.
+
+- **[Option Pricing Calculator](https://option-pricing-calculator.onrender.com/)**  
+  Web app for calculating options prices using Black-Scholes and Monte Carlo methods, with interactive variable analysis.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alexmueller07&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmueller07&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+<details>
+  <summary><h3>📘 My Coding Journey</h3></summary>
+
+Growing up in Silicon Valley, I was immersed in tech from a young age and quickly developed a love for programming. I started writing real code my freshman year of high school and haven’t stopped since.
+
+Over the years, I’ve:
+- Written hundreds of scripts and apps  
+- Built and deployed full-stack web and backend systems  
+- Worked extensively with machine learning models  
+- Developed production-level tools and bots  
+
+I'm excited by innovation, driven by impact, and always hungry to learn more. Whether it’s through side projects, academic work, or research — I’m constantly trying to grow as a developer and problem-solver.
 </details>
 
+---
+
+### 📫 Let's Connect
+
+If you're interested in collaborating or just want to say hi:
+- 💌 **amueller.code@gmail.com**
+- 🖥️ [LinkedIn](https://www.linkedin.com/in/alexander-mueller-375504244/)
