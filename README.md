@@ -2,7 +2,6 @@
 <p align="center">
   🎓 Computer Science Student @ University of Wisconsin–Madison<br>
   💻 Backend-Focused Engineer | ML Enthusiast | Problem-Solver<br>
-  📍 Currently open to internships and research opportunities
 </p>
 
 ---
