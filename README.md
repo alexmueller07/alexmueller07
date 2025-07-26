@@ -82,11 +82,7 @@ Each of these projects was built from the ground up — ideated, designed, and i
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alexmueller07&show_icons=true&theme=github_dark" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmueller07&layout=compact&theme=github_dark" height="160"/>
-</p>
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="alexander-mueller-021658307" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/alexander-mueller-021658307?trk=profile-badge">Alexander Mueller</a></div>
-              
+</p>      
 ---
 
 
