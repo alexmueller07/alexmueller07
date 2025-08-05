@@ -59,11 +59,8 @@ Whether it’s a tool for friends, a solution to a personal inefficiency, or an 
 
 Each of these projects was built from the ground up — ideated, designed, and implemented independently to meet real needs.
 
-- 🔧 **[Devsync IDE](https://devsync-snowy.vercel.app/)**  
-  A real-time collaborative coding IDE for seamless remote pair programming.
-
-- 🌤 **[Weather Stylist](https://weatherstylist.com)**  
-  A smart email assistant that sends daily weather updates and clothing recommendations tailored to you.
+- 💹 **[Mean Reversion Trading Bot](https://github.com/alexmueller07/Mean-Reversion-Strategy)**  
+  A quantitative strategy that uses mean-reversion logic and live Alpaca trading API for real-time performance.
 
 - 🏈 **[NFL Betting Prediction](https://github.com/alexmueller07/nfl-betting-prediction)**  
   Combines regression and classification ML models to identify profitable NFL betting opportunities based on live odds and statistical patterns.
@@ -71,12 +68,18 @@ Each of these projects was built from the ground up — ideated, designed, and i
 - 🧠 **[Socora](https://v0-new-project-dwifajxft6o.vercel.app/)**  
   An AI-powered assistant with audio and text interface, screen awareness, and command parsing.
 
-- 💹 **[Mean Reversion Trading Bot](https://github.com/alexmueller07/Mean-Reversion-Strategy)**  
-  A quantitative strategy that uses mean-reversion logic and live Alpaca trading API for real-time performance.
+  - 🕒 **[Distraction Cost](https://chromewebstore.google.com/detail/distraction-cost/blmdjidhlhnpgglaniobcaabahnmcpol)**  
+  A productivity Chrome extension that monitors the time you spend on distracting websites and converts that wasted time into real-world financial cost.  
 
 - 📊 **[Option Pricing Calculator](https://option-pricing-calculator.onrender.com/)**  
   Calculate options pricing using both Black-Scholes and Monte Carlo simulation, plus interactive scenario analysis.
 
+- 🌤 **[Weather Stylist](https://weatherstylist.com)**  
+  A smart email assistant that sends daily weather updates and clothing recommendations tailored to you.
+
+- 🔧 **[Devsync IDE](https://devsync-snowy.vercel.app/)**  
+  A real-time collaborative coding IDE for seamless remote pair programming.
+  
 ---
 
 <details>
