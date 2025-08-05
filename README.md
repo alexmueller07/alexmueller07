@@ -51,6 +51,8 @@ Whether it’s a tool for friends, a solution to a personal inefficiency, or an 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="30" alt="VS" />
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmueller07&layout=compact&theme=github_dark" height="160"/>
+
 ---
 
 ### 🧩 Highlight Projects
@@ -76,16 +78,6 @@ Each of these projects was built from the ground up — ideated, designed, and i
   Calculate options pricing using both Black-Scholes and Monte Carlo simulation, plus interactive scenario analysis.
 
 ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexmueller07&show_icons=true&theme=github_dark" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmueller07&layout=compact&theme=github_dark" height="160"/>
-</p>      
-
----
-
 
 <details>
   <summary><h3>📘 My Journey into Code</h3></summary>
