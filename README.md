@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Alexander Mueller 👋</h1>
 <p align="center">
-  🎓 Computer Science Student @ University of Wisconsin–Madison<br>
+  🎓 Computer Science + Data Science Student @ University of Wisconsin–Madison<br>
   💻 Backend-Focused Engineer | ML Enthusiast | Problem-Solver<br>
 </p>
 
