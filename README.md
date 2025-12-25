@@ -51,8 +51,6 @@ Whether it’s a tool for friends, a solution to a personal inefficiency, or an 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="30" alt="VS" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmueller07&layout=compact&theme=github_dark" height="160"/>
-
 ---
 
 ### 🧩 Highlight Projects
@@ -68,7 +66,7 @@ Each of these projects was built from the ground up. Ideated, designed, and impl
 - 🧠 **[Socora](https://v0-new-project-dwifajxft6o.vercel.app/)**  
   An AI-powered assistant with audio and text interface, screen awareness, and command parsing.
 
-  - 🕒 **[Distraction Cost](https://chromewebstore.google.com/detail/distraction-cost/blmdjidhlhnpgglaniobcaabahnmcpol)**  
+- 🕒 **[Distraction Cost](https://chromewebstore.google.com/detail/distraction-cost/blmdjidhlhnpgglaniobcaabahnmcpol)**  
   A productivity Chrome extension that monitors the time you spend on distracting websites and converts that wasted time into real-world financial cost.  
 
 - 📊 **[Option Pricing Calculator](https://option-pricing-calculator.onrender.com/)**  
@@ -88,7 +86,7 @@ Each of these projects was built from the ground up. Ideated, designed, and impl
 I was raised in Silicon Valley, where I was exposed to software engineering at a young age. What started as a curiosity became a lifelong passion. I began programming seriously during my freshman year of high school, and haven’t stopped since.
 
 Over the years, I've:
-- Written hundreds of projects and tools, from bots and APIs to full-stack apps
+- Written tons of projects and tools, from bots and APIs to full-stack apps
 - Learned how to think like an engineer, not just a coder
 - Taught myself to independently research, architect, and ship solutions
 - Released production-ready tools used by real people
