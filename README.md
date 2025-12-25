@@ -8,7 +8,7 @@
 
 ### 🔍 About Me
 
-I’m a software developer with a passion for building tools that solve real problems — not just hypothetical ones. From backend systems to full-stack apps and machine learning models, I thrive on designing solutions from the ground up. I don't just build projects — I **engineer value**.
+I’m a software developer with a passion for building tools that solve real problems, not just hypothetical ones. From backend systems to full-stack apps and machine learning models, I thrive on designing solutions from the ground up.
 
 Most of my work stems from a simple question:  
 **“What would make life easier for someone right now?”**  
@@ -57,7 +57,7 @@ Whether it’s a tool for friends, a solution to a personal inefficiency, or an 
 
 ### 🧩 Highlight Projects
 
-Each of these projects was built from the ground up — ideated, designed, and implemented independently to meet real needs.
+Each of these projects was built from the ground up. Ideated, designed, and implemented independently to meet real needs.
 
 - 💹 **[Mean Reversion Trading Bot](https://github.com/alexmueller07/Mean-Reversion-Strategy)**  
   A quantitative strategy that uses mean-reversion logic and live Alpaca trading API for real-time performance.
@@ -88,12 +88,12 @@ Each of these projects was built from the ground up — ideated, designed, and i
 I was raised in Silicon Valley, where I was exposed to software engineering at a young age. What started as a curiosity became a lifelong passion. I began programming seriously during my freshman year of high school, and haven’t stopped since.
 
 Over the years, I've:
-- Written hundreds of projects and tools — from bots and APIs to full-stack apps
+- Written hundreds of projects and tools, from bots and APIs to full-stack apps
 - Learned how to think like an engineer, not just a coder
 - Taught myself to independently research, architect, and ship solutions
 - Released production-ready tools used by real people
 
-Coding isn’t just something I do — it’s how I think, create, and solve problems.
+Coding isn’t just something I do, it’s how I think, create, and solve problems.
 </details>
 
 ---
