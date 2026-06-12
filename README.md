@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Computer Science @ University of Wisconsin–Madison<br>
-  🔬 Researcher &nbsp;·&nbsp; 🛠️ Software engineer<br>
+  🔬 AI Researcher &nbsp;·&nbsp; 🛠️ Software engineer<br>
   🌐 <a href="https://alexmueller07.github.io">alexmueller07.github.io</a>
 </p>
 
