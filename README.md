@@ -2,7 +2,8 @@
 
 <p align="center">
   💻 Computer Science @ University of Wisconsin–Madison<br>
-  🔬 Researcher &nbsp;·&nbsp; 🛠️ Software engineer &nbsp;·&nbsp; 🦀 Rust &nbsp;·&nbsp; 🐍 Python<br>
+  
+  🔬 Researcher &nbsp;·&nbsp; 🛠️ Software engineer &nbsp;·&nbsp;<br>
   🌐 <a href="https://alexmueller07.github.io">alexmueller07.github.io</a>
 </p>
 
@@ -10,13 +11,11 @@
 
 ### 👋 About
 
-I'm a CS student who likes building things that hold up under real use: clean systems, reproducible benchmarks, and code other people can actually run. Most of my time goes to research in applied AI (autonomous navigation, vision-language models, affective computing) and to side projects that turn an idea into something I can ship and measure.
-
-Whether it's a simulation benchmark, an ML pipeline, or a full app, I care about the same things: solid engineering, honest results, and software that does what it claims.
+I'm a CS student who likes building things that hold up under real use: clean systems, reproducible benchmarks, and code other people can actually run. Most of my time goes to research in applied AI (autonomous navigation, vision-language models, affective computing) and to software engineering projects that turn an idea into something I can ship and measure.
 
 ---
 
-### 🧩 Selected Projects
+### 🧩 Highlighted Projects
 
 - 🛰️ **[Maritime UAV GNSS-Denied Benchmark](https://github.com/alexmueller07/maritime-uav-gnss-denied-benchmark)**
   Rust simulation benchmark comparing state-estimation and sensor-fusion algorithms (EKF, particle filters, visual-inertial) for UAV navigation without GPS.
