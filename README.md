@@ -2,7 +2,7 @@
 
 <p align="center">
   🔬 Undergraduate researcher — autonomous navigation, vision-language models, affective computing<br>
-  🎓 Computer Science @ University of Wisconsin–Madison &nbsp;·&nbsp; 🦀 Rust &nbsp;·&nbsp; 🐍 Python<br>
+  🎓 Computer Science @ University of Wisconsin–Madison &nbsp;·&nbsp; <br>
   🌐 <a href="https://alexmueller07.github.io">alexmueller07.github.io</a>
 </p>
 
@@ -10,11 +10,11 @@
 
 ### 🔬 Research
 
-I work across three labs, each on a different corner of applied AI:
+I am currently working across three labs, each on a different corner of applied AI:
 
-- **Research Scientist Intern @ [advl.ai](https://advl.ai)** — GNSS-denied UAV navigation. Building a Rust simulation benchmark for state-estimation and sensor-fusion algorithms in maritime environments.
-- **Student Researcher @ Korea University — VGI Lab** — Vision-Language Models and continual learning.
-- **Research Assistant @ UW–Madison — Niedenthal Emotions Lab** — experiment software for dyadic emotion studies.
+- **Research Scientist Intern @ [advl.ai](https://advl.ai)** : GNSS-denied UAV navigation. Building a Rust simulation benchmark for state-estimation and sensor-fusion algorithms in maritime environments.
+- **Student Researcher @ Korea University — VGI Lab** : Vision-Language Models and continual learning.
+- **Research Assistant @ UW–Madison — Niedenthal Emotions Lab** : experiment software for dyadic emotion studies.
 
 I like work that holds up under measurement: reproducible benchmarks, honest results, and code other people can actually run.
 
